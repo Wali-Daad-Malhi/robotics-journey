@@ -55,6 +55,37 @@ My goal is to develop strong skills in robotics and software engineering while b
 - 3D printing workflow
 
 
+##  My Robotics Journey
+
+My interest in robotics began in 8th grade when I first got the opportunity to participate in a robotics competition. To prepare for it, students who were interested were sent to another school where we were taught the fundamentals of robotics by a coach.
+
+At that stage, we learned the absolute basics — how simple electronic components work, basic circuit concepts, and introductory programming. We did not build a complete project at that time. Instead, the focus was on understanding components, since in the actual competition we were given a box of random electronic parts and had to build something functional from them.
+
+### Phase 1: First Exposure (8th Grade)
+- Learned basic robotics concepts and electronics fundamentals
+- Understood simple components and circuit behavior
+- Got introduced to basic programming for robotics
+- Developed initial problem-solving mindset for competitions
+
+After joining my current school for A Levels, I became part of the robotics club. This is where I started attending robotics classes twice a week.
+
+In these classes, we were given a robotics kit provided by our club coach. We learned how each component in the kit works along the way and how they can be used in real circuits and systems.
+
+### Phase 2: Structured Learning (A Levels – Robotics Club)
+
+In the robotics club, I started learning robotics from the very beginning again, but in a more structured and practical way. We studied the same core electronic components in detail and learned how they function in real applications.
+
+During this phase, we also began building basic robotics projects, especially line-following robots, which introduced us to sensors, motor control systems, and real-world circuit integration.
+
+While developing my skills in line-following robots (LFR), I also started participating in robotics competitions as practice and exposure. These included events such as PSIFI at LUMS University and SOFTEC at FAST University, where the focus was on gaining experience, testing our designs, and improving performance under competition conditions.
+
+This preparation eventually led to NERC at NUST University, where I applied everything I had learned with the goal of competing at a higher level and aiming for victory.
+
+### Phase 3: Development Phase (Present)
+
+From there, my focus has been on improving and building on these fundamentals through hands-on projects, especially line-following robots and competition-based robotics systems. This continues to be my current learning direction.
+
+
 
 ## Project Highlights
 
